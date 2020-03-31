@@ -1,0 +1,23 @@
+{
+  "name": "@npmtest/npmtest",
+  "version": "1.0.0",
+  "description": "my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wakababa/npmtest.git"
+  },
+  "author": "waka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wakababa/npmtest/issues"
+  },
+  "homepage": "https://github.com/wakababa/npmtest#readme",
+  "dependencies": {
+    "my-package": "^0.0.0"
+  },
+  "devDependencies": {}
+}
